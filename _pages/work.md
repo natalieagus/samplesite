@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Work
-slug: /pages/work
+slug: /_pages/work
 items:
   - title: My Interest 1
     image:
