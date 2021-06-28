@@ -8,6 +8,12 @@ baseurl: "/samplesite" # the subpath of the site
 url: "https://natalieagus.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
+
+# collections:
+#   tutorials: 
+#     output:true
+#     permalink:/tutorials/:path
+
 header:
   pages:
     - name: Home
@@ -62,9 +68,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-collections:
-  tutorials: 
-    output:true
-    permalink:/tutorials/:path
+
 # Used for defeating caching
 version: 1
