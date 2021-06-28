@@ -40,6 +40,7 @@ footer:
     - name: RSS
       link: /feed.xml
 
+      
 # Build settings
 markdown: kramdown
 sass:
@@ -60,5 +61,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+collections:
+  pages: 
+    output:true
 # Used for defeating caching
 version: 1
