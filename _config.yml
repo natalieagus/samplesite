@@ -64,5 +64,6 @@ exclude:
 collections:
   pages: 
     output:true
+    permalink:/pages/:path
 # Used for defeating caching
 version: 1
