@@ -10,8 +10,8 @@ og_image: /assets/img/profile-pic.jpg
 
 
 collections:
-  - tutorials: 
-    output:true
+  tutorials: 
+    output: true
 
 header:
   pages:
