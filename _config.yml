@@ -15,6 +15,7 @@ header:
       slug: /pages/
     - name: Work
     - name: Blog
+    - name: Publications
 
 footer:
   show_powered_by: true
