@@ -5,7 +5,7 @@ title: Collection of Pages
 
 {% for t in site.tutorials %}
 
-<a href="{{ themes.url | prepend: site.baseurl }}">
+<a href="{{ t.url | prepend: site.baseurl }}">
   <h2>{{ t.title }}</h2>
 </a>
 
