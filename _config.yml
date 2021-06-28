@@ -11,11 +11,14 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    slug: /_pages/
     - name: Home
+      slug: /
     - name: Work
+      slug: /_pages/work
     - name: Blog
+      slug: /_pages/blog
     - name: Publications
+      slug: /_pages/publications
 
 footer:
   show_powered_by: true
