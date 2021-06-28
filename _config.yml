@@ -62,9 +62,9 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-# collections:
-#   pages: 
-#     output:true
-#     permalink:/pages/:path
+collections:
+  tutorials: 
+    output:true
+    permalink:/tutorials/:path
 # Used for defeating caching
 version: 1
