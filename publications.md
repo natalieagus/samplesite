@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Publications
-slug: /_pages/publications
+slug: /publications
 ---
 
 This is an example of a "Publication" page, you can type your publications here.
