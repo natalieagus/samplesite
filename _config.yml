@@ -9,10 +9,9 @@ url: "https://natalieagus.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
 
-# collections:
-#   tutorials: 
-#     output:true
-#     permalink:/tutorials/:path
+collections:
+  - tutorials: 
+    output:true
 
 header:
   pages:
