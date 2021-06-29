@@ -9,12 +9,18 @@ url: "https://eliottvincent.github.io" # the base hostname & protocol for the si
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
+collections:
+  tutorials: 
+    output: true
+
 header:
   pages:
     - name: Home
       slug: /
     - name: Work
     - name: Blog
+    - name: Publications
+    - name: Pages
 
 footer:
   show_powered_by: true
